@@ -1,8 +1,13 @@
 .masthead {
-  height: 100vh;
-  min-height: 500px;
+  height: 50vh;
+  min-height: 400px;
   background-image: url("../assets/chateau_ext_face_neige.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  color: azure
+}
+
+.content {
+    padding-top: 50px
 }
